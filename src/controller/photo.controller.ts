@@ -1,0 +1,4 @@
+class PhotoController{
+
+}
+export {PhotoController}
